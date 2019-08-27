@@ -25,9 +25,12 @@ for line in map_file:
 				start_map_test = False
 				continue
 			fields = line.strip().split()
-			if len(fields) != 4 or 'DROME' not in fields[1]:
-				continue
-			out_file.write('%s\t%s\n' %(fields[3], fields[2]))
+			for i, field in enumerate(fields):
+				if 'DROME' in field:
+					useful_stuff = fields[i+1:]
+					if len(useful_stuff) == 2:
+						out_file.write('%s\t%s\n' %(useful_stuff[1], useful_stuff[0]))
+					break
 
 map_file.close()
 out_file.close()
