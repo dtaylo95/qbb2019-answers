@@ -44,9 +44,22 @@ All lines have the required 11 fields:
 10. Sequence of aligned read
 11. ASCII quality (base-by-base) of aligned read
 
+
 They each also have the YT optional tag
 
-Lines with 13 columns have an additional YF tag
+Lines with 13 columns have an additional YF tag that lines of other columns do not have (including those of 20, 21, 22 columns)
 
 Lines with 20 or more columns have the following tags:
 1. AS:i:<alignment_score>
+2. XN:i:<>
+3. XM:i:<>
+4. XO:i:<>
+5. XG:i:<>
+6. NM:i:<edit_distance>
+7. MD:Z:<mismatches_matches>
+8. NH:i:<alignment_count_for_read>
+
+
+Lines with 21 columns have a ZS: tag
+Lines with 22 columns have a XS: tag
+
