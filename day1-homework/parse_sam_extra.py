@@ -4,7 +4,7 @@ import sys
 import re
 
 def parse_CIGAR(c_string):
-	numerals = '123456789'
+	numerals = '1234567890'
 	parsed_CIGAR = []
 	count = ''
 	identity = ''
