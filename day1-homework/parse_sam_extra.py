@@ -13,7 +13,8 @@ def parse_CIGAR(c_string):
 			count += char
 		else:
 			identity = char
-			parsed_CIGAR.append((count, identity))
+			parsed_CIGAR.append(count)
+			parsed_CIGAR.append(identity)
 			count = ''
 			identity = ''
 	return parsed_CIGAR
