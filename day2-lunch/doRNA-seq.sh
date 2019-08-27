@@ -10,11 +10,11 @@ do
 	echo "*** Running fastqc"
 	fastqc -t $THREADS ../../data/rawdata/$SAMPLE.fastq
 	echo "*** Running hisat2"
-	hisat2 -x ../genomes/BDGP6 -U ../../data/rawdata/$SAMPLE.fastq -p 4 -S $SAMPLE.sam
+	hisat2 -x ../genomes/BDGP6 -U ../../data/rawdata/$SAMPLE.fastq -p $THREADS -S $SAMPLE.sam
 	echo "*** Running samtools sort"
-	samtools sort -@ 4 -O BAM $SAMPLE.sam > $SAMPLE.bam
+	samtools sort -@ $THREADS -O BAM $SAMPLE.sam > $SAMPLE.bam
 	echo "*** Running samtools index"
-	samtools index -@ 4 -b $SAMPLE.bam
+	samtools index -@ $THREADS -b $SAMPLE.bam
 	echo "*** Running StringTie"
-	stringtie $SAMPLE.bam -G $ANNOTATION -o $SAMPLE.gtf -p 4 -e -B
+	stringtie $SAMPLE.bam -G $ANNOTATION -o $SAMPLE.gtf -p $THREADS -e -B
 done
