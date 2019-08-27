@@ -50,7 +50,7 @@ for line in f:
 		over30score_count += 1
 
 	CIGAR_string = fields[5]
-	parsed_CIGAR = re.findall(r"[^\W\d_]+|\d+", CIGAR_string)
+	parsed_CIGAR = parse_CIGAR(CIGAR_string)
 	if 'I' in parsed_CIGAR:
 		indel_score = int(parsed_CIGAR[parsed_CIGAR.index('I') - 1])
 		if indel_score == 1:
