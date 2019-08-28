@@ -43,8 +43,8 @@ for line in gtf:
 	if (fields[2] == 'gene' and fields[0] == '3R') and 'gene_biotype "protein_coding"' in line:
 		gene_id = fields[13][1:-2]
 		gene_id_w_locs[gene_id] = (int(fields[3]),int(fields[4]))
-		gene_locs_dict[fields[3]] = (gene_id)
-		gene_locs_dict[fields[4]] = (gene_id)
+		gene_locs_dict[fields[3]] = gene_id
+		gene_locs_dict[fields[4]] = gene_id
 		all_locs.append(int(fields[3]))
 		all_locs.append(int(fields[4]))
 

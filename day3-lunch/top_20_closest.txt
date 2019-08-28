@@ -1,0 +1,100 @@
+
+The #1 closest protein-coding gene is tin.
+The target region is 27 bases before the start of the gene
+It took 14 iterations to find this gene
+
+
+The #2 closest protein-coding gene is pre-mod(mdg4)-N.
+The target region is 5375 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #3 closest protein-coding gene is pre-mod(mdg4)-N.
+The target region is 5375 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #4 closest protein-coding gene is pre-mod(mdg4)-N.
+The target region is 5375 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #5 closest protein-coding gene is pre-mod(mdg4)-U.
+The target region is 9143 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #6 closest protein-coding gene is pre-mod(mdg4)-V.
+The target region is 9620 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #7 closest protein-coding gene is pre-mod(mdg4)-V.
+The target region is 9620 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #8 closest protein-coding gene is bap.
+The target region is 9930 bases before the start of the gene
+It took 13 iterations to find this gene
+
+
+The #9 closest protein-coding gene is pre-mod(mdg4)-AD.
+The target region is 10671 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #10 closest protein-coding gene is pre-mod(mdg4)-AD.
+The target region is 10671 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #11 closest protein-coding gene is pre-mod(mdg4)-AD.
+The target region is 10671 bases after the end of the gene
+It took 13 iterations to find this gene
+
+
+The #12 closest protein-coding gene is pre-mod(mdg4)-Y.
+The target region is 10972 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #13 closest protein-coding gene is pre-mod(mdg4)-E.
+The target region is 13462 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #14 closest protein-coding gene is pre-mod(mdg4)-AB.
+The target region is 13660 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #15 closest protein-coding gene is pre-mod(mdg4)-AB.
+The target region is 13660 bases after the end of the gene
+It took 13 iterations to find this gene
+
+
+The #16 closest protein-coding gene is pre-mod(mdg4)-T.
+The target region is 16819 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #17 closest protein-coding gene is pre-mod(mdg4)-T.
+The target region is 16819 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #18 closest protein-coding gene is CG6475.
+The target region is 18831 bases before the start of the gene
+It took 13 iterations to find this gene
+
+
+The #19 closest protein-coding gene is pre-mod(mdg4)-J.
+The target region is 19182 bases after the end of the gene
+It took 14 iterations to find this gene
+
+
+The #20 closest protein-coding gene is pre-mod(mdg4)-J.
+The target region is 19182 bases after the end of the gene
+It took 13 iterations to find this gene
+
