@@ -53,7 +53,7 @@ for query_kmer in query_kmers:
 # ______________________________________________________________________________
 
 
-# This dictionary will store tuples containing query_start, query_end of each matchm for each target_id
+# This dictionary will store tuples containing query_start, query_end of each match for each target_id
 longest_matches = {}
 
 while matches != []:
