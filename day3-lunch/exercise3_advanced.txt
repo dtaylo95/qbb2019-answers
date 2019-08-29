@@ -1,0 +1,400 @@
+For the position: 2L 14737070, the closest gene is CG31835
+The target region is 3 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 18899544, the closest gene is ssp3
+The target region is 16803 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 22502958, the closest gene is CG43331
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 20036401, the closest gene is CG17193
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 2652068, the closest gene is CG42304
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 17339889, the closest gene is CG13727
+The target region is 390 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 21231305, the closest gene is CG32523
+The target region is 12470 bases after the end of the gene
+It took 13 iterations to find this gene
+
+For the position: 3L 8601928, the closest gene is RpL14
+The target region is within the gene.
+It took 13 iterations to find this gene
+
+For the position: 3R 24130287, the closest gene is Tsc1
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 24840489, the closest gene is sosie
+The target region is 1 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 12593175, the closest gene is Sin3A
+The target region is 258 bases after the end of the gene
+It took 13 iterations to find this gene
+
+For the position: 3L 5917885, the closest gene is CG10483
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: X 10852426, the closest gene is feo
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 12035901, the closest gene is CG43191
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 1232862, the closest gene is CG33965
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 15511690, the closest gene is GalNAc-T1
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 16584104, the closest gene is CG4169
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 7345049, the closest gene is CG31496
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 1497223, the closest gene is CG31661
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 8600986, the closest gene is RpL14
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 5342064, the closest gene is lama
+The target region is 1555 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 19041842, the closest gene is Catsup
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 25847219, the closest gene is CG14545
+The target region is 3191 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 19807212, the closest gene is CG14104
+The target region is 13 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 4 915277, the closest gene is eIF4G
+The target region is 20 bases before the start of the gene
+It took 8 iterations to find this gene
+
+For the position: 3L 21594577, the closest gene is TfAP-2
+The target region is within the gene.
+It took 14 iterations to find this gene
+
+For the position: 2R 23804791, the closest gene is CG5539
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 10836550, the closest gene is CG7686
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 453088, the closest gene is CG4164
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 12543156, the closest gene is bun
+The target region is within the gene.
+It took 14 iterations to find this gene
+
+For the position: 2L 9436784, the closest gene is RpS28-like
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 7605580, the closest gene is Cyp4d21
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 9584650, the closest gene is gcm
+The target region is 2905 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 18705481, the closest gene is VAChT
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 13008364, the closest gene is CG8031
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 11231287, the closest gene is CG42671
+The target region is 542 bases after the end of the gene
+It took 13 iterations to find this gene
+
+For the position: 3L 1140409, the closest gene is bab2
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 17639127, the closest gene is RhoGAPp190
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 15793701, the closest gene is CG8974
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 30744585, the closest gene is Npc2g
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 8229204, the closest gene is eIF4E-3
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2R 19733268, the closest gene is CG8517
+The target region is 18400 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 15860176, the closest gene is CG9632
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 14718253, the closest gene is hog
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 875712, the closest gene is CG11664
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2R 24565534, the closest gene is uri
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 12015075, the closest gene is otk
+The target region is within the gene.
+It took 13 iterations to find this gene
+
+For the position: 3L 5764093, the closest gene is CG10576
+The target region is within the gene.
+It took 13 iterations to find this gene
+
+For the position: 3R 10408598, the closest gene is Irp-1B
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 7912443, the closest gene is CG8281
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2L 8970500, the closest gene is CG9541
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3L 146413, the closest gene is CG6845
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 12985347, the closest gene is Psc
+The target region is 4353 bases after the end of the gene
+It took 13 iterations to find this gene
+
+For the position: X 21026105, the closest gene is CG1532
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2L 203759, the closest gene is mRpL10
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2R 13854639, the closest gene is CG6553
+The target region is within the gene.
+It took 13 iterations to find this gene
+
+For the position: 2R 7656875, the closest gene is CG30495
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 18090717, the closest gene is CG15153
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 14886436, the closest gene is CG33332
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 5638635, the closest gene is MTA1-like
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 30418747, the closest gene is CG42740
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 31459802, the closest gene is CG11334
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: X 1523534, the closest gene is Mur2B
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 16454472, the closest gene is CG10405
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 4655385, the closest gene is CG32238
+The target region is 5080 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 2300083, the closest gene is CG31949
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 5914296, the closest gene is CG34113
+The target region is within the gene.
+It took 14 iterations to find this gene
+
+For the position: 3L 11592427, the closest gene is CG33268
+The target region is 1196 bases after the end of the gene
+It took 13 iterations to find this gene
+
+For the position: 2L 8991715, the closest gene is CG9555
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 15091925, the closest gene is chn
+The target region is 23311 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 25025215, the closest gene is Hr96
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 23355200, the closest gene is ATPsyn-Cf6
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 20376961, the closest gene is CG16798
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 23865394, the closest gene is CG4585
+The target region is within the gene.
+It took 14 iterations to find this gene
+
+For the position: 2L 2532979, the closest gene is CG3528
+The target region is 14942 bases after the end of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 7454902, the closest gene is Inos
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 13197082, the closest gene is CG16972
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 16103412, the closest gene is IntS9
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 5378073, the closest gene is kkv
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 8089462, the closest gene is sut3
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 20798625, the closest gene is CG4365
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 5958187, the closest gene is fs(1)M3
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2L 18739300, the closest gene is CG42752
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 11394333, the closest gene is sprt
+The target region is within the gene.
+It took 13 iterations to find this gene
+
+For the position: 2R 22348287, the closest gene is CG11298
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3R 11241163, the closest gene is scpr-A
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2L 2968273, the closest gene is Ts
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 13115111, the closest gene is CG42237
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3L 22738688, the closest gene is l(3)04053
+The target region is within the gene.
+It took 14 iterations to find this gene
+
+For the position: 3R 23399219, the closest gene is CG17380
+The target region is 3389 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 2R 16226481, the closest gene is Tsf3
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: 3L 15121552, the closest gene is CG32847
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2L 18677201, the closest gene is CG31751
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 3R 9265007, the closest gene is Aats-trp
+The target region is 20 bases before the start of the gene
+It took 14 iterations to find this gene
+
+For the position: X 11990098, the closest gene is CG18130
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2R 16199406, the closest gene is shark
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2L 20648031, the closest gene is CG2608
+The target region is 650 bases after the end of the gene
+It took 13 iterations to find this gene
+
+For the position: X 20538477, the closest gene is RunxB
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: X 2094214, the closest gene is csw
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
+For the position: 2R 19330869, the closest gene is CG34045
+The target region is 20 bases before the start of the gene
+It took 13 iterations to find this gene
+
