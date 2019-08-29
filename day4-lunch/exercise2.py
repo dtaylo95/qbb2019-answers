@@ -1,9 +1,9 @@
 #!/usr/bin/env Python3
 
 """
-Usage: ../exercise1.py <ctab> <a> <loc> <scale>
+Usage: ../exercise2.py <ctab1> <ctab2>
 
-Plot FPKM values as a histogram
+Plot FPKM values from two samples against each other in a scatter plot
 """
 
 import sys
