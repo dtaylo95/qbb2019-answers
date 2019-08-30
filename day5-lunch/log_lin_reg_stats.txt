@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               log_FPKM   R-squared:                       0.258
+Model:                            OLS   Adj. R-squared:                  0.258
+Method:                 Least Squares   F-statistic:                     4034.
+Date:                Fri, 30 Aug 2019   Prob (F-statistic):               0.00
+Time:                        15:47:26   Log-Likelihood:                -70025.
+No. Observations:               34718   AIC:                         1.401e+05
+Df Residuals:                   34714   BIC:                         1.401e+05
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3441      0.012     27.660      0.000       0.320       0.368
+H3K4me3        0.0151      0.000     86.579      0.000       0.015       0.015
+H3K4me1        0.0068      0.001      6.709      0.000       0.005       0.009
+H3K9me3       -0.0180      0.001    -12.843      0.000      -0.021      -0.015
+==============================================================================
+Omnibus:                     7407.318   Durbin-Watson:                   1.570
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            17104.784
+Skew:                           1.209   Prob(JB):                         0.00
+Kurtosis:                       5.445   Cond. No.                         103.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
