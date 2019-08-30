@@ -31,5 +31,8 @@ fig, ax = plt.subplots()
 
 ax.hist(residuals, bins=1000, range=(-100,100))
 ax.set_xlim((-100,100))
+ax.set_xlabel('Residual value')
+ax.set_ylabel('Counts')
+ax.set_title('Distribution of Regression Residuals')
 fig.savefig('resid_hist.png')
 plt.close(fig)
