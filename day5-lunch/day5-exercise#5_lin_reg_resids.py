@@ -1,7 +1,7 @@
 #!/usr/bin/env Python3
 
 """
-Usage: ./lin_reg.py <ctab> [mark_FILE.tab ...] > [out_stats]
+Usage: ./lin_reg_resids.py <ctab> [mark_FILE.tab ...] > [out_stats]
 """
 
 import sys
