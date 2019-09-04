@@ -13,6 +13,7 @@ perfect_match_count =0
 single_align_count = 0
 MAPQsum = 0
 num6_count = 0
+print('Exercise #4')
 for line in f:
 	fields = line.rstrip('\n').split('\t')
 	if fields[2] != '*':
@@ -34,8 +35,8 @@ for line in f:
 
 MAPQ_avg = float(MAPQsum)/align_count
 
-print(align_count)
-print(perfect_match_count)
-print(single_align_count)
-print(MAPQ_avg)
-print(num6_count)
+print('\nExercise #1\n', align_count)
+print('Exercise #2\n', perfect_match_count)
+print('Exercise #3\n', single_align_count)
+print('Exercise #5\n', MAPQ_avg)
+print('Exercise #6\n', num6_count)
