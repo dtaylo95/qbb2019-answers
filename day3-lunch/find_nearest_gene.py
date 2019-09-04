@@ -4,7 +4,7 @@
 """
 Finds the closest (n) genes to a select position
 
-Usage: ./find_nearest_genes_by_list.py <gtf_file> <n>
+Usage: ./find_nearest_genes_by_list.py <gtf_file> <position> [n]
 """
 
 import sys
