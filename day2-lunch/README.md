@@ -27,6 +27,9 @@ stringtie SRR072893.10k.bam -G ../genomes/BDGP6.Ensembl.81.gtf -o SRR072893.10k.
 ### The really slow way to find the number of alignments to each chromosome is:
 grep "^SRR072893" SRR072893.sam | cut -f 3 | sort | uniq -c | sort -r -k 1 -g > chromosome_alignment_counts.txt
 
+### A faster way to find the number of alignments to each chromosome is:
+create a python script that goes through each line and for those lines that represent an actual alignment, add 1 to the value of the corresponding chromosome in a dictionary
+
 
 # EXERCISE 4
 
