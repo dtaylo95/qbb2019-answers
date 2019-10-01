@@ -1,0 +1,1 @@
+plink --allow-extra-chr --allow-no-sex --mind --vcf BYxRM_segs_saccer3.bam.simplified.vcf --pheno BYxRM_PhenoData.txt --all-pheno --assoc --out phenoassoc
