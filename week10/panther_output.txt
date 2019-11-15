@@ -1,0 +1,3 @@
+The only gene that was significantly differentially expressed (in addition to being two-fold differentially expressed) was Adcy6. This gene was upregulated in the poly stage compared to the CFU stage.
+
+Gene Ontology analysis with Panther against the genes with the most similar expression patterns (found in the "clustered_diff_exp_genes.txt" file) revealed a host of possible gene functions and pathways (see panther_output.png). The most represented pathways were involved in G protein signaling. Adcy6 itself encodes for an adenylyl cyclase, consistent with G protein signaling pathways. This may indicate increased signaling upon differentiation to later cell stages.
