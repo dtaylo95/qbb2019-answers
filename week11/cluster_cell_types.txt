@@ -1,0 +1,26 @@
+# T-test identified cluster marker genes
+00. Igfbpl1    Marker for Granule neuroblasts and Neuroblasts
+01. Dbi        High expression in Ependymal cells
+02. Stmn2      High expression in Noradrenergic erector muscle neurons
+03. Nrxn3      High expression in Inhibitory neurons
+04. mt-Atp6    Marker for Cholinergic enteric neurons
+05. Islr2      Marker for Granule Neuroblasts
+06. Nrxn3      High expression in Inhibitory neurons
+07. Hbb-bs     Mus musculus hemoglobin, beta adult s chain
+08. Sparc      High expression in Enteric glia
+09. Reln       Marker for CGE-derived neurogliaform cells
+10. Rgs5       Marker for Pericytes
+
+
+# Logistic Regression identified cluster marker genes
+00. Malat1     High expression in Myelin forming oligodendrocytes
+01. Ccna2      Marker for proliferating Enteric glia
+02. mt-Atp6    Marker for Cholinergic enteric neurons
+03. Lhx6       Marker for IVy and MGE-derived neurogliaform cells
+04. mt-Cytb    High expression in Cholinergic enteric neurons
+05. Zbtb20     High expression in Ependymal cells
+06. Npas1      Marker for R-LM border Cck interneurons and interneuron-selective interneurons
+07. Ftl1       High expression in Non-peptidergic neurons
+08. Trem2      Marker for Microglia
+09. Reln       Marker for CGE-derived neurogliaform cells
+10. Col3a1     High expression in Enteric mesothelial fibroblasts
