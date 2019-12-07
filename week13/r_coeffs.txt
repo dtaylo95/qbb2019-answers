@@ -1,0 +1,5 @@
+Activity-by-Contact Expression Prediction
+R = 0.583550463116
+
+Distance Decay Expression Prediction
+R = 0.112722001256
