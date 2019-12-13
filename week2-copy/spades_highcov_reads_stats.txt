@@ -1,7 +1,0 @@
-For contigs in spades_highcov_reads/contigs.fasta
-	Number of Contigs: 1
-	Minimum Contig Length: 100000
-	Maximum Contig Length: 100000
-	Average Contig Length: 100000
-	N50 Contig Length: 100000
-

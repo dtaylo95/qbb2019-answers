@@ -1,7 +1,0 @@
-For contigs in velvet_short_reads/contigs.fa
-	Number of Contigs: 305
-	Minimum Contig Length: 61
-	Maximum Contig Length: 998
-	Average Contig Length: 186
-	N50 Contig Length: 295
-
