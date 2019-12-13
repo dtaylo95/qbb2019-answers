@@ -1,0 +1,7 @@
+For contigs in spades_nanopore/contigs.fasta
+	Number of Contigs: 35
+	Minimum Contig Length: 207
+	Maximum Contig Length: 26583
+	Average Contig Length: 2810
+	N50 Contig Length: 24383
+
